@@ -45,17 +45,3 @@ How to run
      dl_vlan_pcp = 0, dl_type = 0x800, nw_tos = 0, nw_proto = 17,
      nw_src = 192.168.0.2, nw_dst = 192.168.0.1, tp_src = 1, tp_dst = 1],
      actions = [output: port=2 max_len=65535]
-
-License
-------------
-
-Copyright (C) 2011-2013 NEC Corporation
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License, version 2, as
-published by the Free Software Foundation.
-
-This program is distributed in the hope that it will be useful, but
-WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-General Public License for more details.

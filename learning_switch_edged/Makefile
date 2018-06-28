@@ -1,7 +1,3 @@
-#
-# Copyright (C) 2012-2013 NEC Corporation
-#
-
 TREMA = ../../trema-edge
 SHELL = /bin/sh
 TREMA_CONFIG = $(TREMA)/trema-config

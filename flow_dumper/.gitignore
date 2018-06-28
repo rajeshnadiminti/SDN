@@ -1,6 +1,0 @@
-*.a
-*.o
-*.swp
-*~
-.depends
-flow_dumper

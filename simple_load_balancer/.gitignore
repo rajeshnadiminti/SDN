@@ -1,6 +1,0 @@
-*.a
-*.o
-*.swp
-*~
-.depends
-simple_load_balancer

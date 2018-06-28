@@ -1,7 +1,3 @@
-#
-# Copyright (C) 2011-2013 NEC Corporation
-#
-
 TREMA = ../../trema
 
 TREMA_CONFIG = $(shell which trema-config)
